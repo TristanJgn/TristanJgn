@@ -2,7 +2,6 @@ Hi 👋 My name is Tristan Jagan
 ==============================
 
 ## Full-Stack Software Engineer
-----------------------------
 
 * 🌍  I'm based in Toronto
 * 🖥️  Check out my [Portfolio](http://tristanjagan.dev)
