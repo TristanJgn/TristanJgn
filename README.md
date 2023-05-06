@@ -5,9 +5,9 @@ Full-Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [Portfolio](http://tristanjagan.dev)
+* 🖥️  See my [Portfolio](http://tristanjagan.dev)
 * ✉️  You can contact me at [tristan.jgn@gmail.com](mailto:tristan.jgn@gmail.com)
-* 🚀  I'm currently working on [a freelance project](http://a)
+* 🚀  I'm currently working on a freelance website redesign for a client
 * 🧠  I'm learning Next.js
 * ⚡  Currently a Teaching Assistant, Software Engineering at BrainStation
 
