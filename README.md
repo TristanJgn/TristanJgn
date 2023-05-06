@@ -38,3 +38,5 @@ Full-Stack Software Engineer
 <a href="http://www.github.com/TristanJgn"><img src="https://github-readme-stats.vercel.app/api?username=TristanJgn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TristanJgn's GitHub stats" /></a>
 
 <a href="https://github.com/TristanJgn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanJgn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![](https://visitcount.itsvg.in/api?id=TristanJgno&icon=0&color=10)](https://visitcount.itsvg.in)
