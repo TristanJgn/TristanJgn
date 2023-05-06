@@ -1,7 +1,7 @@
 Hi 👋 My name is Tristan Jagan
 ==============================
 
-Full-Stack Software Engineer
+## Full-Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Toronto
@@ -11,7 +11,7 @@ Full-Stack Software Engineer
 * 🧠  I'm learning Next.js
 * ⚡  Currently a Teaching Assistant, Software Engineering at BrainStation
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 <p align="left">
@@ -27,11 +27,11 @@ Full-Stack Software Engineer
 </p>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 
 <p align="left"> <a href="https://www.github.com/TristanJgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tristanjagan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <b>My GitHub Stats</b>
 
