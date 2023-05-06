@@ -5,13 +5,13 @@ Full-Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my [Portfolio](http://tristanjagan.dev)
-* ✉️  You can contact me at [tristan.jgn@gmail.com](mailto:tristan.jgn@gmail.com)
-* 🚀  I'm currently working on a freelance website redesign for a client
+* 🖥️  Check out my [Portfolio](http://tristanjagan.dev)
+* ✉️  Feel free to contact me at [tristan.jgn@gmail.com](mailto:tristan.jgn@gmail.com)
+* 🚀  I'm working on a freelance website redesign for a client
 * 🧠  I'm learning Next.js
 * ⚡  Currently a Teaching Assistant, Software Engineering at BrainStation
 
-### Skills
+# 💻 Tech Stack:
 
 
 <p align="left">
@@ -27,11 +27,11 @@ Full-Stack Software Engineer
 </p>
 
 
-### Socials
+# 🌐 Socials:
 
 <p align="left"> <a href="https://www.github.com/TristanJgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tristanjagan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+# 📊 GitHub Stats:
 
 <b>My GitHub Stats</b>
 
