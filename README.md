@@ -6,9 +6,8 @@ Hi 👋 My name is Tristan Jagan
 * 🌍  I'm based in Toronto
 * 🖥️  Check out my [Portfolio](http://tristanjagan.dev)
 * ✉️  Feel free to contact me at [tristan.jgn@gmail.com](mailto:tristan.jgn@gmail.com)
-* 🚀  I'm working on a freelance website redesign for a client
-* 🧠  I'm learning Next.js
-* ⚡  Currently a Teaching Assistant, Software Engineering at BrainStation
+* 🧠  I'm learning TypeScript
+* ⚡  Currently a freelance developer building websites for soloprenuers and small businesses
 
 ## 💻 Tech Stack:
 
